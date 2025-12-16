@@ -5,5 +5,13 @@ __pycache__/
 *.ipynb_checkpoints
 .DS_Store
 
+# Extra files that should not be tracked
+filter_mantamonis.py
+Mantamonis_bacterial_contamination_analysis.xlsx
+plot_lab3.py
+filtered_mantamonis.csv
+anaconda_projects/
+Bioinformtics/
+
 
 
